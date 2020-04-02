@@ -1,0 +1,82 @@
+body {
+  background-color: rgba(130, 148, 11, 0.8);
+}
+.navegacion {
+background-color: rgba(130, 224, 11, 0.4);
+background-attachment: fixed;
+}
+.btn-large {
+  background-color: #8CF91F;
+  border-radius: 20px;
+}
+.logo {
+  width: 300px;
+}
+#boton_nav ul a {
+  text-decoration: none;
+  color: black;
+}
+#boton_nav ul a:hover {
+  	background-color: #D8FEB3;
+    border-radius: 30px;
+}
+header {
+font-style: italic;
+color: #FFFFFF;
+}
+.Slogan{
+  text-align: center;
+}
+section {
+  background: url(../img/fondo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+.img-social{
+  width: 50px;
+  height: 50px;
+  filter: grayscale(80%);
+
+}
+#social img:hover{
+  filter: brightness(60%);
+}
+
+#fotos img:hover{
+  filter: brightness(60%);
+}
+.turismo {
+  width: 90%;
+  max-width:400px;
+}
+.turismo2 {
+  width: 350px;
+}
+.autor {
+  width: 150px;
+}
+.callout {
+  background-color: rgba(29, 219, 75, 0.5);
+}
+.callout h5,p{
+  color: #FFFFFF;
+}
+form {
+color: white;
+}
+.btn {
+  color: blue;
+}
+footer{
+	height: 55px;
+	background-color: #396E05;
+}
+footer p{
+	text-align: center;
+	color: white;
+	padding-top: 1%;
+}
